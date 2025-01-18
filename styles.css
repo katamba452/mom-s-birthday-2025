@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+  font-family: 'Happy Monkey', cursive;
+  color: darkgreen;
+  background: linear-gradient(turquoise, lightblue);
+
+}
+
+
+
+h1 {
+  text-shadow: 0px 0px 5px red;
+}
+
+h2 {
+  text-shadow: 0px 0px 5px red;
+}
+
+h4 {
+  text-shadow: 0px 0px 5px red;
+}
+
+P {
+  text-shadow: 0px 0px 5px red;
+}
+
+.add-one-year {
+  background: rgb(67, 238, 250);
+  padding: 10PX;
+  margin: 5PX 0PX 5PX 0px;
+}
+
+h4 {
+  background: lightblue;
+}
+
+
+#image {
+  border-radius: 100%;
+  width: 200px;
+  border: 6px solid pink;
+}
+
+
+
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 8px solid pink;
+  border-radius: 3500px;
+}
+
+
+.feeling {
+  color: palegreen;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.giftcover-img {
+  width: 400px;
+  ;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  background-image: url("gift\ cover.webp");
+  background-size: cover;
+  margin: 0px auto 0px auto;
+}
+
+#happy:hover {
+  background-image: url("happy\ friends.gif")
+}
+
+#happy {
+  background-size: cover;
+}
+
+
+.instruction {
+  color: lightseagreen;
+  font-weight: 2px;
+  margin-top: 0px;
+}
+
+
+#genius:hover {
+  background-image: url("genius.gif");
+}
+
+#lucky:hover {
+  background-image: url("lucky.gif");
+}
+
+#proud:hover {
+  background-image: url("familyphoto.jpg");
+}
+
+#proud {
+  background-size: cover;
+}
+
+#cheers:hover {
+  background-image: url("cheers.gif");
+}
+
+#birthday {
+  background-image: url("birthday.gif");
+}
